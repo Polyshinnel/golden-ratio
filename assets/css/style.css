@@ -67,6 +67,9 @@ header .header-nav .active::before {
   top: 18px;
   font-size: 25px;
 }
+header .header-nav_mod ul li a {
+  color: #000;
+}
 header .menu-btn {
   display: none;
 }
@@ -134,6 +137,12 @@ header .mobile-menu {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.banner-big_mod .banner-big__content h1 {
+  color: #000;
+  padding: 6px 18px;
+  background: #F3EFE6;
 }
 
 .info-block {
@@ -236,10 +245,12 @@ header .mobile-menu {
   z-index: 200;
 }
 .big-menu .big-menu__link .big-menu__item .big-menu__item-content p {
-  font-size: 24px;
+  font-size: 32px;
+  line-height: 140%;
   font-weight: 600;
   color: #fff;
   text-transform: uppercase;
+  text-align: center;
 }
 .big-menu .big-menu__link .big-menu__item .big-menu__item-content img {
   width: 250px;
