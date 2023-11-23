@@ -114,11 +114,15 @@ header{
         color: #fff;
 
         .main-logo{
-            width: 580px;
+            width: 480px;
         }
 
         .logo{
             width: 250px;
+        }
+
+        .logo_mod{
+            width: 200px;
         }
 
         .download-link{
@@ -311,6 +315,12 @@ header{
                 object-fit: cover;
                 filter: brightness(0.7);
                 transition: 0.3s all ease;
+            }
+
+            .big-menu__item-content_mod{
+                img{
+                    width: 150px;
+                }
             }
         }
     }

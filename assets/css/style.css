@@ -95,10 +95,13 @@ header .mobile-menu {
   color: #fff;
 }
 .banner-big .banner-big__content .main-logo {
-  width: 580px;
+  width: 480px;
 }
 .banner-big .banner-big__content .logo {
   width: 250px;
+}
+.banner-big .banner-big__content .logo_mod {
+  width: 200px;
 }
 .banner-big .banner-big__content .download-link {
   display: flex;
@@ -264,6 +267,9 @@ header .mobile-menu {
      object-fit: cover;
   filter: brightness(0.7);
   transition: 0.3s all ease;
+}
+.big-menu .big-menu__link .big-menu__item .big-menu__item-content_mod img {
+  width: 150px;
 }
 .big-menu .big-menu__link_single {
   width: 100%;
