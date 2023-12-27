@@ -1017,6 +1017,16 @@ header{
             .golden-ratio__banner-info-block{
                 color: #fff;
                 font-size: 17px;
+
+                h2{
+                    font-size: 17px;
+                    font-weight: 400;
+                }
+
+                p{
+                    margin-top: 10px;
+                }
+
                 a{
                     text-decoration: none;
                     color: #fff;
@@ -1024,7 +1034,7 @@ header{
             }
 
             .golden-ratio__banner-info-block-devider{
-                padding-right: 35px;
+                padding-left: 35px;
                 border-left: 1px solid #fff;
                 margin-left: 35px;
             }
