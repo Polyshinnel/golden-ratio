@@ -1007,5 +1007,27 @@ header{
                 font-size: 17px;
             }
         }
+
+        .golden-ratio__banner-info{
+            margin-top: 10px;
+            display: flex;
+            justify-content: flex-end;
+            padding: 0 40px;
+
+            .golden-ratio__banner-info-block{
+                color: #fff;
+                font-size: 17px;
+                a{
+                    text-decoration: none;
+                    color: #fff;
+                }
+            }
+
+            .golden-ratio__banner-info-block-devider{
+                padding-right: 35px;
+                border-left: 1px solid #fff;
+                margin-left: 35px;
+            }
+        }
     }
 }
