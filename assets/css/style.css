@@ -761,12 +761,12 @@ header .mobile-menu {
 }
 .golden-ratio__banner .left-corner {
   position: absolute;
-  width: 236px;
+  width: 236px !important;
   right: 0;
   top: 0;
 }
 .golden-ratio__banner .right-corner {
   left: 0;
   bottom: 0;
-  width: 448px;
+  width: 448px !important;
 }/*# sourceMappingURL=style.css.map */

@@ -946,7 +946,7 @@ header{
 
     .left-corner{
         position: absolute;
-        width: 236px;
+        width: 236px !important;
         right: 0;
         top: 0;
     }
@@ -954,6 +954,6 @@ header{
     .right-corner{
         left: 0;
         bottom: 0;
-        width: 448px;
+        width: 448px !important;
     }
 }
