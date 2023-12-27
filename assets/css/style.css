@@ -795,14 +795,14 @@ header .mobile-menu {
   text-align: center;
   font-weight: 300;
 }
-.golden-ratio__banner .golden-ratio__banner-info {
+.golden-ratio__banner .golden-ratio__banner-info-text {
   position: absolute;
   width: 100%;
   left: 0;
   bottom: 0;
   padding: 40px 0;
 }
-.golden-ratio__banner .golden-ratio__banner-info .golden-ratio__banner-text-line {
+.golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-text-line {
   width: 100%;
   background-color: #fff;
   height: 45px;
@@ -811,7 +811,7 @@ header .mobile-menu {
   justify-content: flex-end;
   padding: 0 40px;
 }
-.golden-ratio__banner .golden-ratio__banner-info .golden-ratio__banner-text-line p {
+.golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-text-line p {
   color: #1D1D1B;
   font-size: 17px;
 }/*# sourceMappingURL=style.css.map */
