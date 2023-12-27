@@ -935,3 +935,25 @@ header{
         }
     }
 }
+
+.golden-ratio__banner{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+
+    .left-corner{
+        position: absolute;
+        width: 236px;
+        right: 0;
+        top: 0;
+    }
+
+    .right-corner{
+        left: 0;
+        bottom: 0;
+        width: 448px;
+    }
+}
