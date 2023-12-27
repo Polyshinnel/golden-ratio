@@ -824,10 +824,12 @@ header .mobile-menu {
 .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-info .golden-ratio__banner-info-block {
   color: #fff;
   font-size: 17px;
+  text-align: right;
 }
 .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-info .golden-ratio__banner-info-block h2 {
   font-size: 17px;
   font-weight: 400;
+  margin-top: 10px;
 }
 .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-info .golden-ratio__banner-info-block p {
   margin-top: 10px;
