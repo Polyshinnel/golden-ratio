@@ -947,7 +947,7 @@ header{
 
     .left-corner{
         position: absolute;
-        width: 236px !important;
+        width: 236px;
         right: 0;
         top: 0;
     }
@@ -956,7 +956,7 @@ header{
         position: absolute;
         left: 0;
         bottom: 0;
-        width: 448px !important;
+        width: 448px;
     }
     
     .golden-ratio__banner-text{
@@ -1056,5 +1056,11 @@ header{
                 font-size: 28px;
             }
         }
+    }
+}
+
+@media(max-width: 930px) {
+    .right-corner{
+        width: 340px;
     }
 }
