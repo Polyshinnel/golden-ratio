@@ -1043,3 +1043,18 @@ header{
         }
     }
 }
+
+@media(max-width: 1210px) {
+    .golden-ratio__banner{
+        .golden-ratio__banner-text{
+            h1{
+                font-size: 28px;
+            }
+
+            p{
+                width: 500px;
+                font-size: 28px;
+            }
+        }
+    }
+}

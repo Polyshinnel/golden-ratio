@@ -842,4 +842,14 @@ header .mobile-menu {
   padding-left: 35px;
   border-left: 1px solid #fff;
   margin-left: 35px;
+}
+
+@media (max-width: 1210px) {
+  .golden-ratio__banner .golden-ratio__banner-text h1 {
+    font-size: 28px;
+  }
+  .golden-ratio__banner .golden-ratio__banner-text p {
+    width: 500px;
+    font-size: 28px;
+  }
 }/*# sourceMappingURL=style.css.map */
