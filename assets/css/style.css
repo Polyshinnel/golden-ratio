@@ -876,10 +876,15 @@ header .mobile-menu {
     height: auto;
     padding: 10px 40px;
   }
+  .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-text-line p {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
   .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-info {
     flex-direction: column;
   }
-  .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-info-block-devider {
+  .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-info .golden-ratio__banner-info-block-devider {
     border: none;
     margin: 0;
     padding: 0;
