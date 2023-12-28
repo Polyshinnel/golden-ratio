@@ -854,7 +854,7 @@ header .mobile-menu {
   }
 }
 @media (max-width: 930px) {
-  .right-corner {
+  .golden-ratio__banner .right-corner {
     width: 340px;
   }
 }/*# sourceMappingURL=style.css.map */
