@@ -859,11 +859,18 @@ header .mobile-menu {
   }
 }
 @media (max-width: 830px) {
+  .golden-ratio__banner .golden-ratio__banner-text {
+    padding-bottom: 40px;
+  }
+  .golden-ratio__banner .golden-ratio__banner-text h1 {
+    font-size: 20px;
+  }
   .golden-ratio__banner .golden-ratio__banner-text p {
+    font-size: 20px;
     width: 90%;
   }
   .golden-ratio__banner .right-corner {
-    width: 200px;
+    width: 130px;
   }
   .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-text-line {
     height: auto;
@@ -874,6 +881,7 @@ header .mobile-menu {
     flex-direction: column;
   }
   .golden-ratio__banner .golden-ratio__banner-info-text .golden-ratio__banner-info-block-devider {
+    border: none;
     margin: 0;
     padding: 0;
     margin-top: 20px;

@@ -1070,13 +1070,18 @@ header{
 @media(max-width: 830px) {
     .golden-ratio__banner{
         .golden-ratio__banner-text{
+            h1{
+                font-size: 20px;
+            }
             p{
+                font-size: 20px;
                 width: 90%;
             }
+            padding-bottom: 40px;
         } 
-        
+
         .right-corner{
-            width: 200px;
+            width: 130px;
         }
 
         .golden-ratio__banner-info-text{
@@ -1091,6 +1096,7 @@ header{
             }
 
             .golden-ratio__banner-info-block-devider{
+                border: none;
                 margin: 0;
                 padding: 0;
                 margin-top: 20px;
